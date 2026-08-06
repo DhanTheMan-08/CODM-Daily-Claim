@@ -10,7 +10,7 @@ permissions:
 
 env:
   USERNAME: "DhanTheMan_08"   # your codm id/username
-  REGION: "auto"             # auto mostly works. if it doesn't then manually try entering your region
+  REGION: "IN"             # auto mostly works. if it doesn't then manually try entering your region
 
 jobs:
   claim:
